@@ -1,0 +1,9 @@
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\bin\Debug\netstandard2.0\HttpMonitor.deps.json
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\bin\Debug\netstandard2.0\HttpMonitor.dll
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\obj\Debug\netstandard2.0\HttpMonitor.AssemblyInfoInputs.cache
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\obj\Debug\netstandard2.0\HttpMonitor.AssemblyInfo.cs
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\bin\Debug\netstandard2.0\HttpMonitor.pdb
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\obj\Debug\netstandard2.0\HttpMonitor.csproj.CoreCompileInputs.cache
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\obj\Debug\netstandard2.0\HttpMonitor.dll
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\obj\Debug\netstandard2.0\HttpMonitor.pdb
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor\obj\Debug\netstandard2.0\HttpMonitor.csprojAssemblyReference.cache

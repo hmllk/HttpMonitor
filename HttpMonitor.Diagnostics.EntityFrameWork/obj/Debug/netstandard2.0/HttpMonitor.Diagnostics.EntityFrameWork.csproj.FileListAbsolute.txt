@@ -1,0 +1,8 @@
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\bin\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.deps.json
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\bin\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.dll
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\bin\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.pdb
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\obj\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.AssemblyInfoInputs.cache
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\obj\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.AssemblyInfo.cs
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\obj\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\obj\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.dll
+C:\Users\lingkai.liu\source\repos\HttpMonitor\HttpMonitor.Diagnostics.EntityFrameWork\obj\Debug\netstandard2.0\HttpMonitor.Diagnostics.EntityFrameWork.pdb
